@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - prints all possible different combinations of three digits.
+ * main - Prints all possible different combinations of three digits.
  *
  * Return: 0 (Succes)
  */
@@ -12,7 +12,7 @@ int main(void)
 
 	for (n = 48; n < 58; n++)
 	{
-		for (m = 49; m < 58; n++)
+		for (m = 49; m < 58; m++)
 		{
 			for (l = 50; l < 58; l++)
 			{
