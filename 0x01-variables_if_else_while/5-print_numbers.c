@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- *  main - Prints numberw from 0 to 9
+ * main - Prints numberw from 0 to 9.
  *
- *  Return: 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
-	int;
+	int i;
 
 	for (i = 0; i < 10; i++)
 	{
